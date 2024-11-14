@@ -1,0 +1,46 @@
+feature_importances:
+  AZ(deg): 0.3951075077056885
+  EL(deg): 0.34974417090415955
+  SNR(dBHz): 0.255148321390152
+  TIME(GPST)_seconds: 0.0
+model_params:
+  base_score: null
+  booster: null
+  callbacks: null
+  colsample_bylevel: null
+  colsample_bynode: null
+  colsample_bytree: null
+  device: null
+  early_stopping_rounds: null
+  enable_categorical: false
+  eval_metric: null
+  feature_types: null
+  gamma: null
+  grow_policy: null
+  importance_type: null
+  interaction_constraints: null
+  learning_rate: 0.1
+  max_bin: null
+  max_cat_threshold: null
+  max_cat_to_onehot: null
+  max_delta_step: null
+  max_depth: 20
+  max_leaves: null
+  min_child_weight: null
+  missing: .nan
+  monotone_constraints: null
+  multi_strategy: null
+  n_estimators: 40
+  n_jobs: null
+  num_parallel_tree: null
+  objective: reg:squarederror
+  random_state: null
+  reg_alpha: null
+  reg_lambda: null
+  sampling_method: null
+  scale_pos_weight: null
+  subsample: null
+  tree_method: null
+  validate_parameters: null
+  verbosity: null
+rmse: 0.5158903219639188
